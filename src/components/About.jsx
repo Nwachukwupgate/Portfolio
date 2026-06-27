@@ -58,10 +58,9 @@ export default function About() {
             >
               Adept at translating complex technical requirements into robust,
               user-centric products within agile, cross-functional teams, with
-              hands-on experience in audio and video production using{" "}
-              <span className="text-accent">Ardour</span> and{" "}
-              <span className="text-accent">Shotcut</span> for content creation
-              and AI training workflows.
+              5+ years of{" "}
+              <span className="text-accent">Figma</span> experience for UI
+              design, prototyping, and design to code workflows.
             </motion.p>
           </motion.div>
 

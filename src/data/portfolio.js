@@ -34,6 +34,7 @@ export const skills = [
       "Tailwind CSS",
       "Material UI",
       "CSS3",
+      "Figma (5+ years)",
     ],
   },
   {
@@ -107,36 +108,19 @@ export const skills = [
       "Project Management",
     ],
   },
-  {
-    category: "Audio & Video Production",
-    items: ["Ardour", "Shotcut"],
-    highlight: true,
-  },
 ];
 
 export const mediaSkills = [
   {
-    name: "Ardour",
-    type: "Digital Audio Workstation",
+    name: "Figma",
+    type: "UI Design Tool",
     description:
-      "Professional multi-track audio recording, editing, and mixing for podcasts, voice-over, and sound design workflows.",
+      "5+ years using Figma for UI design, prototyping, and design to code workflows across web and mobile products.",
     capabilities: [
-      "Multi-track recording & editing",
-      "MIDI sequencing",
-      "Mixing & mastering",
-      "Plugin integration (LV2, VST)",
-    ],
-  },
-  {
-    name: "Shotcut",
-    type: "Video Editor",
-    description:
-      "Cross-platform video editing for tutorials, product demos, and annotated training footage used in AI dataset pipelines.",
-    capabilities: [
-      "Timeline-based editing",
-      "Colour grading & filters",
-      "Multi-format export",
-      "Keyframe animation",
+      "UI design & prototyping",
+      "Component libraries & design systems",
+      "Developer handoff & specs",
+      "Collaborative design workflows",
     ],
   },
 ];
@@ -284,7 +268,7 @@ export const education = {
 export const navLinks = [
   { label: "About", href: "#about" },
   { label: "Skills", href: "#skills" },
-  { label: "Media", href: "#media" },
+  { label: "Design", href: "#media" },
   { label: "Experience", href: "#experience" },
   { label: "Projects", href: "#projects" },
   { label: "Contact", href: "#contact" },
