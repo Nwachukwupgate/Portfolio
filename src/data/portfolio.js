@@ -7,7 +7,7 @@ export const profile = {
   ],
   summary:
     "Results-driven Full-Stack Software Developer and Data Annotation Specialist with 8+ years of experience delivering scalable web applications, microservice architectures, and AI-ready datasets. Proficient in JavaScript (React/Next.js, Node.js/Express.js), Python, and a broad range of SQL/NoSQL databases. Demonstrated track record building high-traffic platforms, integrating machine learning pipelines, and producing high-accuracy annotated datasets that power production AI models.",
-  email: "robert.ejemole@email.com",
+  email: "robert.ejemole@gmail.com",
   location: "Remote UK",
   languages: [
     { name: "English", level: "Fluent (Professional Working Proficiency)" },
