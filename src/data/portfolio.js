@@ -34,7 +34,6 @@ export const skills = [
       "Tailwind CSS",
       "Material UI",
       "CSS3",
-      "Figma (5+ years)",
     ],
   },
   {
@@ -103,10 +102,14 @@ export const skills = [
       "GitHub",
       "Azure DevOps",
       "Agile/Scrum",
-      "Cursor AI",
       "Stripe API",
       "Project Management",
     ],
+  },
+  {
+    category: "Creative Production",
+    items: ["Figma (5+ years)", "Ardour", "Shotcut", "Cursor AI"],
+    highlight: true,
   },
 ];
 
@@ -121,6 +124,42 @@ export const mediaSkills = [
       "Component libraries & design systems",
       "Developer handoff & specs",
       "Collaborative design workflows",
+    ],
+  },
+  {
+    name: "Ardour",
+    type: "Digital Audio Workstation",
+    description:
+      "Professional multi-track audio recording, editing, and mixing for podcasts, voice-over, and sound design workflows.",
+    capabilities: [
+      "Multi-track recording & editing",
+      "MIDI sequencing",
+      "Mixing & mastering",
+      "Plugin integration (LV2, VST)",
+    ],
+  },
+  {
+    name: "Shotcut",
+    type: "Video Editor",
+    description:
+      "Cross-platform video editing for tutorials, product demos, and annotated training footage used in AI dataset pipelines.",
+    capabilities: [
+      "Timeline-based editing",
+      "Colour grading & filters",
+      "Multi-format export",
+      "Keyframe animation",
+    ],
+  },
+  {
+    name: "Cursor AI",
+    type: "AI-Assisted Development",
+    description:
+      "Daily use of Cursor for AI pair programming, rapid prototyping, and shipping production code with context-aware assistance.",
+    capabilities: [
+      "AI pair programming",
+      "Code generation & refactoring",
+      "Context-aware development",
+      "Accelerated debugging & delivery",
     ],
   },
 ];
@@ -268,7 +307,7 @@ export const education = {
 export const navLinks = [
   { label: "About", href: "#about" },
   { label: "Skills", href: "#skills" },
-  { label: "Design", href: "#media" },
+  { label: "Media", href: "#media" },
   { label: "Experience", href: "#experience" },
   { label: "Projects", href: "#projects" },
   { label: "Contact", href: "#contact" },

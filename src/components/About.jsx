@@ -60,7 +60,11 @@ export default function About() {
               user-centric products within agile, cross-functional teams, with
               5+ years of{" "}
               <span className="text-accent">Figma</span> experience for UI
-              design, prototyping, and design to code workflows.
+              design and prototyping, hands-on audio and video production using{" "}
+              <span className="text-accent">Ardour</span> and{" "}
+              <span className="text-accent">Shotcut</span>, and daily{" "}
+              <span className="text-accent">Cursor</span> use for AI-assisted
+              development workflows.
             </motion.p>
           </motion.div>
 
